@@ -75,6 +75,10 @@
         "doctrine/doctrine-fixtures-bundle": "^3.4",
         "friendsofphp/php-cs-fixer": "^3.14",
         "phpstan/phpstan": "^1.9",
-        "symfony/maker-bundle": "^1.48"
+        "phpunit/phpunit": "^10.0",
+        "symfony/browser-kit": "6.2.*",
+        "symfony/css-selector": "6.2.*",
+        "symfony/maker-bundle": "^1.48",
+        "symfony/phpunit-bridge": "^6.2"
     }
 }
